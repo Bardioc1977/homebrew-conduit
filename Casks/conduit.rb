@@ -1,6 +1,6 @@
 cask "conduit" do
-  version "0.1.0"
-  sha256 "16f3804e5703ccfbf2b2ddbd0fad28b2a24863902bf64838bee1419f078385d6"
+  version "0.9.0"
+  sha256 "ec772f90e9590eafc3a2c75846324cbf6e88c4834aa283f838b215e3b6854602"
 
   url "https://conduit.kopp-cloud.de/Conduit.#{version}.dmg"
   name "Conduit"
